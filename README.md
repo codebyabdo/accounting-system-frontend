@@ -1,16 +1,16 @@
-📘 Accounting System for Clothing Store Management
+#📘 Accounting System for Clothing Store Management
 
 A modern and responsive Accounting & Inventory Management System built for clothing stores.
 The system manages Sales, Purchases, Inventory, Customers, Suppliers, Reports, and User Roles, with a clean UI and smooth workflow.
 
-🚀 Features
-🔐 Authentication & Roles
+#🚀 Features
+#🔐 Authentication & Roles
 
 Admin & Staff roles
 
 Full user management (add / edit / disable)
 
-🧾 Sales & Purchases
+#🧾 Sales & Purchases
 
 Dynamic invoice builder
 
