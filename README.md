@@ -150,7 +150,7 @@ VITE_API_URL=https://your-backend-api.com/api
 ![Profile](./img/profile.png)
 ![Users](./img/users.png)
 
-📦 Deployment
+## 📦 Deployment
 
 Deploy easily on:
 
@@ -162,7 +162,7 @@ Render
 
 Build the project then upload the /dist folder or link directly to the GitHub repo.
 
-👥 Team
+## 👥 Team
 
 2 Front-End Developers
 
@@ -170,10 +170,10 @@ Build the project then upload the /dist folder or link directly to the GitHub re
 
 Team Lead + QA
 
-📄 License
+## 📄 License
 
 This project is private and not licensed for public or commercial use.
 
-⭐ Support
+## ⭐ Support
 
 If you want help or improvements, feel free to reach out.
