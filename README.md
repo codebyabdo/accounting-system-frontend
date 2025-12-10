@@ -165,9 +165,9 @@ Build the project then upload the /dist folder or link directly to the GitHub re
 
 👥 Team
 
-3 Front-End Developers
+2 Front-End Developers
 
-2 Back-End Developers
+1 Back-End Developers
 
 Team Lead + QA
 
