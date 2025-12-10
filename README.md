@@ -111,9 +111,45 @@ Create a .env file:
 ```
 VITE_API_URL=https://your-backend-api.com/api
 ```
-📸 Screenshots
+## 📸 Screenshots
 
-(You can add UI screenshots here later — جاهز أعملها بصيغة احترافية لما تبعتلي صور.)
+### 🔐 Authentication
+![Login Arabic](./img/login-ar.png)
+![Login English](./img/login-en.png)
+
+---
+
+### 🏠 Dashboard
+![Dashboard](./img/dashboard.png)
+
+---
+
+### 🧾 Sales & Invoices
+![Sales](./img/sales.png)
+![Invoice - Light Mode](./img/Invoice-light.png)
+![Invoice](./img/Invoice.png)
+
+---
+
+### 📦 Purchases
+![Purchases](./img/Purchases.png)
+
+---
+
+### 🗃 Inventory
+![Inventory](./img/Inventory.png)
+
+---
+
+### 👥 Customers & Suppliers
+![Customers](./img/customers.png)
+![Suppliers](./img/Suppliers.png)
+
+---
+
+### 👤 User Profile & Users
+![Profile](./img/profile.png)
+![Users](./img/users.png)
 
 📦 Deployment
 
