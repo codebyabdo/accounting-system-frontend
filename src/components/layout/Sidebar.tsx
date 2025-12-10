@@ -18,7 +18,7 @@ export function Sidebar() {
     theme: "light",
   };
 
-  const role = user?.role || "cashier";
+  const role = user?.role || "admin";
 
   // تطبيق الثيم
   useEffect(() => {

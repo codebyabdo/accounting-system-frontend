@@ -1,4 +1,4 @@
-import { Navigate } from "react-router-dom";
+// import { Navigate } from "react-router-dom";
 import { useAuth } from "../context/AuthProvider";
 
 interface ProtectedRouteProps {
@@ -14,13 +14,13 @@ export function ProtectedRoute({ children, allowedRoles }: ProtectedRouteProps) 
     return <div className="flex items-center justify-center h-full">Loading...</div>;
   }
 
-  if (!isAuthenticated || !user) {
-    return <Navigate to="/" replace />;
-  }
+  // if (!isAuthenticated || !user) {
+  //   return <Navigate to="/" replace />;
+  // }
 
-  if (!allowedRoles.includes(user.role)) {
-    return <Navigate to="/dashboard" replace />;
-  }
+  // if (!allowedRoles.includes(user.role)) {
+  //   return <Navigate to="/dashboard" replace />;
+  // }
 
   return <>{children}</>;
 }
