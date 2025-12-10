@@ -1,7 +1,7 @@
 # 📘 Accounting System for Clothing Store Management
 
-A modern and responsive **Accounting & Inventory Management System** built for clothing stores.  
-The system manages **Sales, Purchases, Inventory, Customers, Suppliers, Reports, and User Roles**, with a clean UI and smooth workflow.
+A modern and responsive **Accounting & Inventory Management System** built specifically for clothing stores.  
+The system manages **Sales, Purchases, Inventory, Customers, Suppliers, Reports, and User Roles**, providing a clean UI and smooth workflow for daily operations.
 
 ---
 
@@ -28,7 +28,7 @@ The system manages **Sales, Purchases, Inventory, Customers, Suppliers, Reports,
 ### 👥 Customers & Suppliers
 - Add, edit, delete  
 - Validation & forms  
-- API-ready structure  
+- Fully API-ready structure  
 
 ### 📊 Reports
 - Daily/Monthly sales  
@@ -67,6 +67,78 @@ The system manages **Sales, Purchases, Inventory, Customers, Suppliers, Reports,
 ---
 
 ## 📁 Project Structure (Frontend)
+
+# 📘 Accounting System for Clothing Store Management
+
+A modern and responsive **Accounting & Inventory Management System** built specifically for clothing stores.  
+The system manages **Sales, Purchases, Inventory, Customers, Suppliers, Reports, and User Roles**, providing a clean UI and smooth workflow for daily operations.
+
+---
+
+## 🚀 Features
+
+### 🔐 Authentication & Roles
+- Admin & Staff roles  
+- Full user management (add / edit / disable)
+
+### 🧾 Sales & Purchases
+- Dynamic invoice builder  
+- Item search from inventory  
+- Auto price & total calculation  
+- Discount handling  
+- Add new customer/supplier from inside the invoice  
+- Print invoice (PDF layout)  
+- Save invoice to database  
+
+### 📦 Inventory Management
+- Items (name, size, color, price, quantity)  
+- Stock alerts for low quantity  
+- CRUD operations with validation  
+
+### 👥 Customers & Suppliers
+- Add, edit, delete  
+- Validation & forms  
+- Fully API-ready structure  
+
+### 📊 Reports
+- Daily/Monthly sales  
+- Profit & loss  
+- Top selling items  
+- Movement history  
+
+### 🎨 UI / UX
+- Dark & Light mode  
+- Multi-language support (Arabic / English)  
+- Responsive modern design  
+
+---
+
+## 🛠 Tech Stack
+
+### **Frontend**
+- React.js 19  
+- TypeScript  
+- Tailwind CSS  
+- TanStack Query  
+- React Router v6.4  
+- Formik + Yup  
+- Axios  
+
+### **Backend**
+- Node.js (Express)  
+- PostgreSQL / MongoDB  
+- JWT Authentication  
+
+### **Tools**
+- Git & GitHub  
+- Figma  
+- Vercel / Render / Railway  
+
+---
+
+## 📁 Project Structure (Frontend)
+
+
 
 
 ```
